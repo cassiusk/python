@@ -1,7 +1,7 @@
 import pygame, sys, time, random
 
 
-difficulty = 5000
+difficulty = 10
 
 frame_size_x = 720
 frame_size_y = 480
